@@ -1,6 +1,6 @@
 Package: shinythemes
 Title: Themes for Shiny
-Version: 1.0.1
+Version: 1.1
 Authors@R: c(
     person("Winston", "Chang", role = c("aut", "cre"), email = "winston@rstudio.com"),
     person(family = "RStudio", role = "cph"),
@@ -18,7 +18,9 @@ Description: Themes for use with Shiny. Includes several Bootstrap themes
 Depends: R (>= 3.0.0)
 Imports: shiny (>= 0.11)
 License: GPL-3 | file LICENSE
-Packaged: 2015-03-02 22:16:55 UTC; winston
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-09-19 20:11:06 UTC; winston
 Author: Winston Chang [aut, cre],
   RStudio [cph],
   Thomas Park [ctb, cph] (Bootswatch themes),
@@ -29,6 +31,5 @@ Author: Winston Chang [aut, cre],
   Adobe Systems Incorporated [ctb, cph] (Source Sans Pro font),
   Canonical Ltd [ctb, cph] (Ubuntu font)
 Maintainer: Winston Chang <winston@rstudio.com>
-NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-03-03 00:51:43
+Date/Publication: 2016-09-20 00:45:23
