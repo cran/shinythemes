@@ -1,11 +1,11 @@
-660788e2c967d4f26b30184b04ba141e *DESCRIPTION
+63d99cbb6b746d9fa36bc9e534da90da *DESCRIPTION
 a4de7751b0cdec8d36483852c76cddd3 *LICENSE
-bdeb107705e8ff7a9782a092467acb7b *NAMESPACE
-05580ed1fb29c5d8be84cf9844ace691 *NEWS.md
+835a8e35df837b9d81d71f0875e75320 *NAMESPACE
+343bad0f6c1273422f03f6bc6e491357 *NEWS.md
 e069cfb2e9a5d5807fb00ae12d4cc1b9 *R/onload.R
-04930fb239c4885b51df42f0fc2311a1 *R/shinytheme.R
+ff9a1ea5e4ea2e361de47c6f5caaa1ac *R/shinytheme.R
 d0b22f9cb967586a9a0ae40722d796ab *R/shinythemes-package.r
-8b1469fdc96396e2b4c9c45682be5f40 *README.md
+3d71b2ebd0612e00ae6f05e4f2145266 *README.md
 6f0be0bcebc191c8eb52174622fe3765 *inst/shinythemes/css/cerulean.min.css
 d27cafd21edc1917a090b6b6326a863e *inst/shinythemes/css/cosmo.min.css
 4c0195b6543fecf4926465c4a5c503d0 *inst/shinythemes/css/cyborg.min.css
@@ -49,5 +49,6 @@ f4769f9bdb7466be65088239c12046d1 *inst/shinythemes/fonts/glyphicons-halflings-re
 e18bbf611f2a2e43afc071aa2f4e1512 *inst/shinythemes/fonts/glyphicons-halflings-regular.ttf
 fa2772327f55d8198301fdb8bcfc8158 *inst/shinythemes/fonts/glyphicons-halflings-regular.woff
 448c34a56d699c29117adc64c43affeb *inst/shinythemes/fonts/glyphicons-halflings-regular.woff2
-64123b7f415ce3a0afc54460d4f3d9fd *man/shinytheme.Rd
+7c677f18a89a5b2401c5cb4baecf8ac5 *man/shinytheme.Rd
 e6adb04e5644226aff46e03bdcb3b1ee *man/shinythemes.Rd
+b05cb32f9cf9887dc14597820c98d40d *man/themeSelector.Rd

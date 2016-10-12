@@ -1,3 +1,8 @@
+shinythemes 1.1.1
+======================
+
+* Added `themeSelector()`, which inserts a widget into a Shiny page that lets the user change the theme in an application without reloading.
+
 shinythemes 1.1
 =================
 
