@@ -1,26 +1,28 @@
 shinythemes
 ===========
 
-See the documentation at http://rstudio.github.io/shinythemes/.
+> NOTE: This package has been superseded by the [`{bslib}` package](https://rstudio.github.io/bslib/), which provides Bootswatch (and as well as custom) themes for both Bootstrap 3 and 4.
 
-The shinythemes package provides some Bootstrap themes for use with Shiny. The themes are from from http://bootswatch.com/:
+See the documentation at https://rstudio.github.io/shinythemes/.
 
-* [cerulean](http://bootswatch.com/3/cerulean/)
-* [cosmo](http://bootswatch.com/3/cosmo/)
-* [cyborg](http://bootswatch.com/3/cyborg/)
-* [darkly](http://bootswatch.com/3/darkly/)
-* [flatly](http://bootswatch.com/3/flatly/)
-* [journal](http://bootswatch.com/3/journal/)
-* [lumen](http://bootswatch.com/3/lumen/)
-* [paper](http://bootswatch.com/3/paper/)
-* [readable](http://bootswatch.com/3/readable/)
-* [sandstone](http://bootswatch.com/3/sandstone/)
-* [simplex](http://bootswatch.com/3/simplex/)
-* [slate](http://bootswatch.com/3/slate/)
-* [spacelab](http://bootswatch.com/3/spacelab/)
-* [superhero](http://bootswatch.com/3/superhero/)
-* [united](http://bootswatch.com/3/united/)
-* [yeti](http://bootswatch.com/3/yeti/)
+The shinythemes package provides some Bootstrap themes for use with Shiny. The themes are from from https://bootswatch.com/:
+
+* [cerulean](https://bootswatch.com/3/cerulean/)
+* [cosmo](https://bootswatch.com/3/cosmo/)
+* [cyborg](https://bootswatch.com/3/cyborg/)
+* [darkly](https://bootswatch.com/3/darkly/)
+* [flatly](https://bootswatch.com/3/flatly/)
+* [journal](https://bootswatch.com/3/journal/)
+* [lumen](https://bootswatch.com/3/lumen/)
+* [paper](https://bootswatch.com/3/paper/)
+* [readable](https://bootswatch.com/3/readable/)
+* [sandstone](https://bootswatch.com/3/sandstone/)
+* [simplex](https://bootswatch.com/3/simplex/)
+* [slate](https://bootswatch.com/3/slate/)
+* [spacelab](https://bootswatch.com/3/spacelab/)
+* [superhero](https://bootswatch.com/3/superhero/)
+* [united](https://bootswatch.com/3/united/)
+* [yeti](https://bootswatch.com/3/yeti/)
 
 ## Using themes
 
